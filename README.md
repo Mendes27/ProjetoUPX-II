@@ -1,5 +1,4 @@
 
-<img width="128" alt="534372" src="https://github.com/Upx-II-Error404/Project-Upx-II/assets/141426925/77ee48f8-1a48-4850-a603-2343d731366a">
 
  # Project-Upx-II- Error404
 
@@ -19,14 +18,13 @@
 
 # Descrição Do Projeto
 Sistema em java, criado com o intuito  de ser um controle financeiro, com função de ajudar a calcular as despesas para fazer com que o usuário administre melhor seu dinheiro
-e auxiliando com dicas de investimento.
+e auxiliando com dicas para economizar.
 
 
 # Pré-Requisitos
 - Linguagem Usada: Java
 - IDE Utilizada: Netbeans
 - Banco De Dados: MySQL Online
-- Redes De Computadores: Cisco Packet Tracker
 
 
 # Autores Do Projeto
@@ -37,6 +35,11 @@ e auxiliando com dicas de investimento.
 | 190437   | Lucas Pontes  | luska.pontes.freitas@hotmail.com      |
 | 236441   | Gustavo Marum   | gugapolo15@gmail.com      |
 | 2222216  | Renan Zanollo  | renanzamorim008@gmail.com    |
+
+
+# FIGMA DO PROJETO
+
+![52dfb9b3-9fc1-4312-8a69-b16365c877b6](https://github.com/Mendes27/ProjetoUPX-II/assets/141426925/5ea68e15-7ba6-411c-af66-79fd87ee4e7f)
 
 
 
